@@ -10,6 +10,10 @@ void print() {
     cout << "Zdrasti " << x << endl;
 }
 
+void printArray() {
+    // print array...
+}
+
 void fillArr()
 {
     srand(time(NULL));
