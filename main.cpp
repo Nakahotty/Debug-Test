@@ -14,8 +14,7 @@ void printArray() {
     // print array...
 }
 
-void fillArr()
-{
+void fillArr() {
     srand(time(NULL));
     int arr[4];
     // for(int i = 0; i < 4; i++)
